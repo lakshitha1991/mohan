@@ -1709,7 +1709,6 @@
 		font-weight: 900;
 		line-height: 1.5;
 		letter-spacing: 0.075em;
-		text-transform: uppercase;
 		margin: 0 0 1rem 0;
 	}
 
@@ -3081,6 +3080,10 @@
 /* Intro */
 
 	#intro {
+	    background-image: url("../../images/new/cover.jpg");
+	    background-position: 0px 0px;
+	    background-repeat: no-repeat;
+	    background-size: 100% auto;
 		color: #ffffff;
 		padding: 8rem 4rem 6rem 4rem ;
 		-moz-align-items: center;
